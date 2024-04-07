@@ -8,7 +8,7 @@ export default function Home() {
       <input
         className="border border-red-600 rounded-lg p-2 "
         type="text"
-        placeholder="Your Name"
+        placeholder="First Name"
       />
       <button
         onClick={() => alert("Don't Click me")}
