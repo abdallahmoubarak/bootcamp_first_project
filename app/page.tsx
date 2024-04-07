@@ -8,11 +8,7 @@ export default function Home() {
         type="text"
         placeholder="Full Name"
       />
-      <input
-        className="border border-red-600 rounded-lg p-2 "
-        type="text"
-        placeholder="Email Address"
-      />
+
       <input
         className="border border-red-600 rounded-lg p-2 "
         type="text"
